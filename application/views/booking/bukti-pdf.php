@@ -26,9 +26,7 @@
                     ?>
                         <tr>
                             <td><?= $no; ?></td>
-                            <td>
-                                <?= $i['judul_buku']; ?>
-                            </td>
+                            <td><?= $i['judul_buku']; ?></td>
                             <td><?= $i['pengarang']; ?></td>
                             <td><?= $i['penerbit']; ?></td>
                             <td><?= $i['tahun_terbit']; ?></td>

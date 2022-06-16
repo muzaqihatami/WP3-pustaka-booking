@@ -1,9 +1,6 @@
 <!DOCTYPE html> 
 <html> 
 <head> 
-    <title></title>
-</head> 
-<body> 
     <style type="text/css">
         .table-data{
             width: 100%;
@@ -23,7 +20,10 @@
             font-family:Verdana;
         }
     </style> 
-    
+
+    <title></title>
+</head> 
+<body> 
     <h3><center>LAPORAN DATA PEMINJAMAN BUKU</center></h3> 
     <br/>
     <table class="table-data">
